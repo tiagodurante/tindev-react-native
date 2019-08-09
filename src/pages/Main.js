@@ -1,11 +1,12 @@
 /* eslint-disable prettier/prettier */
 import React from 'react';
+import { View } from 'react-native';
 
-import Login from './pages/Login'
-
-export default function App() {
+export default function Main() {
   return (
-    <Login/>
+    <View>
+      
+    </View>
   );
 }
 
